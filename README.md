@@ -23,6 +23,9 @@ Link: https://github.com/Asif-MushtaqAA/DNN-Initialised-Framework
 FLITE2DonPY is available in repository titled "FLITE2D-on-Py".  
 Link: https://github.com/Asif-MushtaqAA/FLITE2D-on-Py  
 
+Add repository titled "Aerofoil-Generator" in a folder titled "libairfoil-master" for the provided airfoil_generator.py to function properly.        	
+Link: https://github.com/Asif-MushtaqAA/Aerofoil-Generator	
+
 Note: Make sure to use correct paths for added repositories and download any repositories required for the above mentioned repositories to function properly.  
 
 # Test Case  
